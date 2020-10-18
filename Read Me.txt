@@ -1,0 +1,7 @@
+first 
+Create databse name next
+Import the databse file for localhost (Databse Folder)
+
+Login
+Email :admin@mail.com
+Password : root
